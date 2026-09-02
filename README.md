@@ -844,9 +844,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus :
 
-![Uploading ChatGPT Image Sep 2, 2026, 10_17_56 AM.png…]()
 
 
+<img width="1594" height="987" alt="ChatGPT Image Sep 2, 2026, 10_17_56 AM" src="https://github.com/user-attachments/assets/b010735c-5c2a-4419-bbfe-6cae6cd64100" />
 
 
  
